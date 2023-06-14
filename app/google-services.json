@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990390724825",
+    "firebase_url": "https://connectall-9014d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "connectall-9014d",
+    "storage_bucket": "connectall-9014d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990390724825:android:96ef5d4481020db2ba36c8",
+        "android_client_info": {
+          "package_name": "net.lebdevelopers.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990390724825-8g573s4svf77mb4duv9851l7rj7k2db2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.lebdevelopers.firebaseapp",
+            "certificate_hash": "36e9da59bafadc2de7243e2463f07065a040866e"
+          }
+        },
+        {
+          "client_id": "990390724825-v8kgrpnsblonoh7nk5fpnc7f0if453ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZuJjphoY9EUOLdBdW41ZW5Ct_GZBti7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990390724825-8t35jf3kdj335g4aqciprvvpvr2t4vhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
