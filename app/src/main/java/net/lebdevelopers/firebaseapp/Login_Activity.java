@@ -97,15 +97,6 @@ public class Login_Activity extends AppCompatActivity {
                                     }
                                 }
                             });
-
-
-
-
-
-
-
-
-
                 }
 
             }
@@ -115,3 +106,4 @@ public class Login_Activity extends AppCompatActivity {
 
     }
 }
+

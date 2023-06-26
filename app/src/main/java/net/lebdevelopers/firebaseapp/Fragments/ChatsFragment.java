@@ -110,8 +110,9 @@ public class ChatsFragment extends Fragment {
 
                     Users user = snapshot.getValue(Users.class);
                     for (Chatlist chatlist : usersList){
+                        if(user.getId()==null || chatlist.getId()==null)return;
 
-                        if(user.getId().equals(chatlist.getId())){
+                        if(!user.getId().equals(chatlist.getId())){
                             mUsers.add(user);
                         }
 
